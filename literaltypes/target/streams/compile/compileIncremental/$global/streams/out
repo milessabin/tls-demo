@@ -1,0 +1,38 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$1$1.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$3$1.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$2$1.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$Residue.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$Residue$.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$.class, /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2.class)[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala, /home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala, /home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala, /home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2-bin-typelevel-4[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2-bin-typelevel-4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1d51beb5, interfacing (CompilerInterface) with Scala compiler version 2.12.2-bin-typelevel-4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-language:higherKinds[0m
+[0m[[0mdebug[0m] [0m	-Ypartial-unification[0m
+[0m[[0mdebug[0m] [0m	-Yliteral-types[0m
+[0m[[0mdebug[0m] [0m	-Ykind-polymorphism[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-jdk/jre/lib/resources.jar:/usr/lib/jvm/java-8-jdk/jre/lib/rt.jar:/usr/lib/jvm/java-8-jdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-jdk/jre/lib/jsse.jar:/usr/lib/jvm/java-8-jdk/jre/lib/jce.jar:/usr/lib/jvm/java-8-jdk/jre/lib/charsets.jar:/usr/lib/jvm/java-8-jdk/jre/lib/jfr.jar:/usr/lib/jvm/java-8-jdk/jre/classes:/home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes:/home/miles/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar:/home/miles/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.42341719 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

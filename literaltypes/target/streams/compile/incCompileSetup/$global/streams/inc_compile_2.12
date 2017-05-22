@@ -1,0 +1,203 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes
+compile options:
+5 items
+0 -> -feature
+1 -> -language:higherKinds
+2 -> -Ypartial-unification
+3 -> -Yliteral-types
+4 -> -Ykind-polymorphism
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2-bin-typelevel-4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$1$1.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$2$1.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$3$1.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$Residue$.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$Residue.class
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> /home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2.class
+binary dependencies:
+5 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> literaltypes.Demo
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> literaltypes.Demo$
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> literaltypes.Demo$anon$macro$1$1
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> literaltypes.Demo$anon$macro$2$1
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> literaltypes.Demo$anon$macro$3$1
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> literaltypes.Demo2
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> literaltypes.Demo2$
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> literaltypes.Demo2$Residue
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> literaltypes.Demo2$Residue$
+used names:
+88 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> ->>
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> ::
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> <init>
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> <refinement>
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Any
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> AnyRef
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Aux
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Demo
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> H
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> HList
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> HListOps
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> HNil
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Int
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> KeyTag
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> L
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Nothing
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Object
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> SingletonOps
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> String
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> T0
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> V
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> Witness
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> _root_
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> anon$macro$1
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> anon$macro$2
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> anon$macro$3
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> hlistOps
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> labelled
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> literaltypes
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> mkSingletonOps
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> mkWitness
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> r
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> record
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> scala
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> shapeless
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> singleton
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> syntax
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> witness
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> $this
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> %
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> &&
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> +
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> +$extension
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> <init>
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> <refinement>
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> ==
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> A
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Any
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> AnyRef
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> AnyVal
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Boolean
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Demo2
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> IndexOutOfBoundsException
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Int
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Iterator
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> M
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> None
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Nothing
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Object
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Option
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Predef
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Product
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Residue
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> ScalaRunTime
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Serializable
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> Some
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> String
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> T
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> T0
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> ValueOf
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> _root_
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> _toString
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> asInstanceOf
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> fiveModTen
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> fourModEleven
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> hashCode
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> isInstanceOf
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> literaltypes
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> m
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> n
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> nineModTen
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> package
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> rhs
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> runtime
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> scala
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> toString
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> typedProductIterator
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> valueOf
+product stamps:
+9 items
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$1$1.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$2$1.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo$anon$macro$3$1.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$Residue$.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2$Residue.class -> lastModified(1494581118000)
+/home/miles/projects/tls-demo/literaltypes/target/scala-2.12/classes/literaltypes/Demo2.class -> lastModified(1494581118000)
+source stamps:
+2 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> hash(bb91a731beb16b0eca55b022618af41ae4acbac1)
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> hash(996c44152078cbfe14912262702c3bd945b785bd)
+binary stamps:
+3 items
+/home/miles/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar -> lastModified(1478080252000)
+/home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar -> lastModified(1493996838000)
+/usr/lib/jvm/java-8-jdk/jre/lib/rt.jar -> lastModified(1489566767000)
+class names:
+3 items
+/home/miles/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar -> shapeless.syntax.SingletonOps
+/home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar -> scala.Product
+/usr/lib/jvm/java-8-jdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzj1SmwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTeA47XQABm5vdGlmeXNxAH4ADHgW0h90AAR3YWl0c3EAfgAMeOKdbHQADSRhc0luc3RhbmNlT2ZzcQB+AAwRdqxcdAAGZXF1YWxzc3EAfgAMZMjZJHQADGFzSW5zdGFuY2VPZnNxAH4ADAtFKvd0AAxzeW5jaHJvbml6ZWRzcQB+AAzZ32TFdAANJGlzSW5zdGFuY2VPZnNxAH4ADIY+AAl0AAREZW1vc3EAfgAMh3krwnQACW5vdGlmeUFsbHNxAH4ADIsUJh10AAxpc0luc3RhbmNlT2ZzcQB+AAy7hUAgdAACPT1zcQB+AAwPsg4edAAFY2xvbmVzcQB+AAwxFPpYdAAIdG9TdHJpbmdzcQB+AAyufFiXdAACIT1zcQB+AAylVwSqdAAIZ2V0Q2xhc3NzcQB+AAwHZVXXdAABcnNxAH4ADIwqC2d0AAJuZXNxAH4ADB83J810AAJlcXNxAH4ADJiWgch0AAIjI3NxAH4ADNkQGVl0AAhmaW5hbGl6ZXNxAH4ADAO70ud0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABFsaXRlcmFsdHlwZXMuRGVtb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ad3NxAH4AanQAA0FueXNxAH4AbnNxAH4AcXVxAH4AdAAAAAJzcQB+AHZ0AAVzY2FsYXEAfgB9dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAMbGl0ZXJhbHR5cGVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb+/oDKHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEQvaG9tZS9taWxlcy9wcm9qZWN0cy90bHMtZGVtby9saXRlcmFsdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLuRpzG+sWsOylWwImGK9BrkrLrB
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzkmyKAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAwc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3zLJHnQAF3Byb2R1Y3RQcmVmaXgkZXh0ZW5zaW9uc3EAfgAMk2BJfHQABm5vdGlmeXNxAH4ADPjaKwF0AAd1bmFwcGx5c3EAfgAMy3EMPXQAFnByb2R1Y3RBcml0eSRleHRlbnNpb25zcQB+AAz78xKxdAAOY29weSRleHRlbnNpb25zcQB+AAw6gy2+dAAEd2FpdHNxAH4ADFlls/t0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1bobPXQAAW5zcQB+AAxQMmBDdAAMcHJvZHVjdEFyaXR5c3EAfgAMa11BaXQABmVxdWFsc3NxAH4ADE/MqRp0AAVEZW1vMnNxAH4ADFE5X5N0AAxhc0luc3RhbmNlT2ZzcQB+AAytTFJ5dAAMc3luY2hyb25pemVkc3EAfgAM7NvTTHQAB1Jlc2lkdWVzcQB+AAyNc7EsdAALKyRleHRlbnNpb25zcQB+AAxQyhVcdAANJGlzSW5zdGFuY2VPZnNxAH4ADFfXQtd0ABlwcm9kdWN0SXRlcmF0b3IkZXh0ZW5zaW9uc3EAfgAM0G3i73QACm5pbmVNb2RUZW5zcQB+AAwZb9ozdAAIY2FuRXF1YWxzcQB+AAyIESPudAANcHJvZHVjdFByZWZpeHNxAH4ADDZ947x0ABJjYW5FcXVhbCRleHRlbnNpb25zcQB+AAwm0yUddAAJbm90aWZ5QWxsc3EAfgAMHlSYJXQADGlzSW5zdGFuY2VPZnNxAH4ADOvhfOl0AAY8aW5pdD5zcQB+AAyWj6YZdAAFYXBwbHlzcQB+AAwtAUvcdAAKZml2ZU1vZFRlbnNxAH4ADLp2gCV0ABhjb3B5JGRlZmF1bHQkMSRleHRlbnNpb25zcQB+AAzhS5hvdAACPT1zcQB+AAytfERPdAAFY2xvbmVzcQB+AAzrBynbdAAQZXF1YWxzJGV4dGVuc2lvbnNxAH4ADIffsix0AAYkaW5pdCRzcQB+AAz+zHDfdAAEY29weXNxAH4ADOmf6N10AAh0b1N0cmluZ3NxAH4ADJafZzl0AAErc3EAfgAM7XoM0nQAEnRvU3RyaW5nJGV4dGVuc2lvbnNxAH4ADECDp9l0AAIhPXNxAH4ADNhbTMJ0AAhnZXRDbGFzc3NxAH4ADCPX7Al0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADH0DIoJ0ABhwcm9kdWN0RWxlbWVudCRleHRlbnNpb25zcQB+AAyvbUr/dAANZm91ck1vZEVsZXZlbnNxAH4ADBF0jgB0AAJuZXNxAH4ADN4K8+R0ABJoYXNoQ29kZSRleHRlbnNpb25zcQB+AAx+hpTedAACZXFzcQB+AAw3f9vrdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMIMS1L3QAAiMjc3EAfgAMXWaEWXQACGZpbmFsaXplc3EAfgAMETOPRnQADnByb2R1Y3RFbGVtZW50c3EAfgAMkwyHenQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ad3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEmxpdGVyYWx0eXBlcy5EZW1vMnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aj3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB3TAAJaW5oZXJpdGVkcQB+AHdMAAdwYXJlbnRzcQB+AHd4cQB+AJRzcQB+AI91cQB+AHIAAAAAc3EAfgCPdXEAfgByAAAAAHNxAH4Aj3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ak3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ak3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ArHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArXNxAH4AoHQAA0FueXNxAH4ApHNxAH4Ap3VxAH4AqgAAAAJzcQB+AKx0AAVzY2FsYXEAfgCzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAMbGl0ZXJhbHR5cGVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb+/oDKHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEQvaG9tZS9taWxlcy9wcm9qZWN0cy90bHMtZGVtby9saXRlcmFsdHlwZXMvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJlsRBUgeMv+FJEiYnAsO9lFt4W9
+external apis:
+0 items
+source infos:
+2 items
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/literaltypes.scala -> 
+AAAAAAAAAAA=
+/home/miles/projects/tls-demo/literaltypes/src/main/scala/literaltypes/residue.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/v2Isl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2xpdGVyYWx0eXBlcy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/v6Ayh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2xpdGVyYWx0eXBlcy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

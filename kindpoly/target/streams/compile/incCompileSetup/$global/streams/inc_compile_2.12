@@ -1,0 +1,469 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes
+compile options:
+6 items
+0 -> -feature
+1 -> -language:higherKinds
+2 -> -Ypartial-unification
+3 -> -Yliteral-types
+4 -> -Ykind-polymorphism
+5 -> -Yinduction-heuristics
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2-bin-typelevel-4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$ShowType$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$ShowType.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$delayedInit$body.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$ShowType$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$ShowType.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$delayedInit$body.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$ShowType$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$ShowType.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$delayedInit$body.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$ShowType$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$ShowType.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$delayedInit$body.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType1$.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType1.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$delayedInit$body.class
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4.class
+binary dependencies:
+10 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> /usr/lib/jvm/java-8-jdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> kindpoly.DemoTLS
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> kindpoly.DemoTLS$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> kindpoly.DemoTLS$ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> kindpoly.DemoTLS$ShowType$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> kindpoly.DemoTLS$delayedInit$body
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> kindpoly.Demo1
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> kindpoly.Demo1$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> kindpoly.Demo1$ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> kindpoly.Demo1$ShowType$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> kindpoly.Demo1$delayedInit$body
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> kindpoly.Demo2
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> kindpoly.Demo2$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> kindpoly.Demo2$ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> kindpoly.Demo2$ShowType$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> kindpoly.Demo2$delayedInit$body
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> kindpoly.Demo3
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> kindpoly.Demo3$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> kindpoly.Demo3$ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> kindpoly.Demo3$ShowType$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> kindpoly.Demo3$delayedInit$body
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4$ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4$ShowType$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4$ShowType1
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4$ShowType1$
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly.Demo4$delayedInit$body
+used names:
+266 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> &&
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> <init>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> <repeated>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> A
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Any
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> AnyKind
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> AnyRef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> App
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Boolean
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> DemoTLS
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> F
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> IndexOutOfBoundsException
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Int
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Iterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> List
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> None
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Nothing
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Object
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Option
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Predef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Product
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> ScalaRunTime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Serializable
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Set
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Some
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> String
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> StringContext
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> T
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> T0
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Unit
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> Vector
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> _hashCode
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> _root_
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> _toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> apply
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> asInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> assert
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> eq
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> isInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> kindpoly
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> package
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> runtime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> s
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> scala
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> show
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showFA
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showInt
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showList
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showOption
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showSet
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> showVector
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> st
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> sta
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> stf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> typedProductIterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> ||
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> &&
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> <init>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> A
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Any
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> AnyRef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> App
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Boolean
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Demo1
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> IndexOutOfBoundsException
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Int
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Iterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> None
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Nothing
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Object
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Option
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Predef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Product
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> ScalaRunTime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Serializable
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Some
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> String
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> T
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> T0
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> Unit
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> _hashCode
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> _root_
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> _toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> apply
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> asInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> assert
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> eq
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> isInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> kindpoly
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> package
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> runtime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> scala
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> show
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> showInt
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> showString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> st
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> typedProductIterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> ||
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> &&
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> <init>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> <repeated>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> A
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Any
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> AnyRef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> App
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Boolean
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Demo2
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> IndexOutOfBoundsException
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Int
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Iterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> List
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> None
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Nothing
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Object
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Option
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Predef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Product
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> ScalaRunTime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Serializable
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Set
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Some
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> String
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> StringContext
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> T
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> T0
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Unit
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> Vector
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> _hashCode
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> _root_
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> _toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> apply
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> asInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> assert
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> eq
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> isInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> kindpoly
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> package
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> runtime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> s
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> scala
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> show
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> showInt
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> showList
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> showOption
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> showSet
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> showString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> showVector
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> st
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> sta
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> typedProductIterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> ||
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> &&
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> <init>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> A
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Any
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> AnyRef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> App
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Boolean
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Demo3
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> IndexOutOfBoundsException
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Int
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Iterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> None
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Nothing
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Object
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Option
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Predef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Product
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> ScalaRunTime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Serializable
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Some
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> String
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> T
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> T0
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> Unit
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> _hashCode
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> _root_
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> _toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> apply
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> asInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> assert
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> eq
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> isInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> kindpoly
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> package
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> runtime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> scala
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> show
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> showInt
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> showString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> st
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> typedProductIterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> ||
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> &&
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> <init>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> <repeated>
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> A
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Any
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> AnyRef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> App
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Boolean
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Demo4
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> F
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> IndexOutOfBoundsException
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Int
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Iterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> List
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> None
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Nothing
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Object
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Option
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Predef
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Product
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> ScalaRunTime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Serializable
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Set
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> ShowType
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> ShowType1
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Some
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> String
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> StringContext
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> T
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> T0
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Unit
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> Vector
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> _hashCode
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> _root_
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> _toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> apply
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> asInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> assert
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> eq
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> isInstanceOf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> kindpoly
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> package
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> runtime
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> s
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> scala
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> show
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showFA
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showInt
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showList
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showOption
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showSet
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> showVector
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> st
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> sta
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> stf
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> toString
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> typedProductIterator
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> ||
+product stamps:
+27 items
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$ShowType$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$ShowType.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1$delayedInit$body.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo1.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$ShowType$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$ShowType.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2$delayedInit$body.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo2.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$ShowType$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$ShowType.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3$delayedInit$body.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo3.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType1$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$ShowType1.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4$delayedInit$body.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/Demo4.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$ShowType$.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$ShowType.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS$delayedInit$body.class -> lastModified(1494660820000)
+/home/miles/projects/tls-demo/kindpoly/target/scala-2.12/classes/kindpoly/DemoTLS.class -> lastModified(1494660820000)
+source stamps:
+5 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> hash(6dd138c0b6c00243b7f6f9fa1ab477108874dcd0)
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> hash(16fc8f97b4d65fcf6ccb83381dd0527f1c7009a5)
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> hash(2b23580a1103f98abea78ebdd19a98f5b76cf16d)
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> hash(b2649485d758b58ce8488d8335463bd5a3a5eab2)
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> hash(d35a7b4874026a9edeb2982ab2e29f6a39b3b72c)
+binary stamps:
+2 items
+/home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar -> lastModified(1493996838000)
+/usr/lib/jvm/java-8-jdk/jre/lib/rt.jar -> lastModified(1489566767000)
+class names:
+2 items
+/home/miles/.ivy2/cache/org.typelevel/scala-library/jars/scala-library-2.12.2-bin-typelevel-4.jar -> scala.Serializable
+/usr/lib/jvm/java-8-jdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEEJKZAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAdzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHC2ssWWdAAHc2hvd0ludHNxAH4AC7y6FAJ0AApzaG93U3RyaW5nc3EAfgALKbfH63QACnNob3dPcHRpb25zcQB+AAvf8Eb5dAAIc2hvd0xpc3RzcQB+AAuJavhtdAAGc2hvd0ZBc3EAfgALfvK33HQACnNob3dWZWN0b3JzcQB+AAvYUtgFdAAHc2hvd1NldHVxAH4ACQAAACVzcQB+AAut5jHLdAAGbm90aWZ5c3EAfgAL79D4s3QAB3VuYXBwbHlzcQB+AAs/NP4pdAAEd2FpdHNxAH4ACzxfXzF0AARzaG93c3EAfgAL0cPQZnQADSRhc0luc3RhbmNlT2ZzcQB+AAvpvFL8dAAMcHJvZHVjdEFyaXR5c3EAfgAL2fI7gnQABmVxdWFsc3NxAH4AC6OgE/N0AAxhc0luc3RhbmNlT2ZzcQB+AAvwqcOTdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAu7rGr9dAAHRGVtb1RMU3NxAH4ACyZWhWl0AAxzeW5jaHJvbml6ZWRzcQB+AAtJrtokdAANJGlzSW5zdGFuY2VPZnNxAH4AC8seUf10AAhjYW5FcXVhbHNxAH4AC/3spYZ0AARtYWluc3EAfgALD9S13XQADXByb2R1Y3RQcmVmaXhzcQB+AAvwTor6dAAJbm90aWZ5QWxsc3EAfgALW5X0f3QACFNob3dUeXBlc3EAfgALagYvhHQADGlzSW5zdGFuY2VPZnNxAH4AC27l8n50AAY8aW5pdD5zcQB+AAtK1KGRdAAFYXBwbHlzcQB+AAtD3k0bdAACPT1zcQB+AAsD+vsjdAAFY2xvbmVzcQB+AAulbMwVdAAGJGluaXQkc3EAfgALinj4XnQABGNvcHlzcQB+AAs8cKp5dAAIdG9TdHJpbmdzcQB+AAuE8d4bdAAEYXJnc3NxAH4AC+/wWjF0AAIhPXNxAH4ACyYXuc90AAhnZXRDbGFzc3NxAH4AC3iCbP90AA5jb3B5JGRlZmF1bHQkMXNxAH4AC4c+g8d0AAJuZXNxAH4AC2gvwAd0AAJlcXNxAH4ACyH7jcd0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAt6SMxZdAALZGVsYXllZEluaXRzcQB+AAt56xyMdAACIyNzcQB+AAttig2SdAAIZmluYWxpemVzcQB+AAt4UhZPdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtYUqSBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAQa2luZHBvbHkuRGVtb1RMU3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AiXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AI5zcQB+AIl1cQB+AGoAAAAAc3EAfgCJdXEAfgBqAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBwcQB+AHl1cQB+AHoAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCYeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AsnNxAH4AfABxAH4AN3VxAH4AfwAAAABzcQB+AKV0AARVbml0cQB+AKt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCYeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCCdAAFUGxhaW5xAH4AT3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AplsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AjXNxAH4ApXQABUFycmF5cQB+AKt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ApXQABlN0cmluZ3NxAH4AqXNxAH4ArHVxAH4ArwAAAANzcQB+ALF0AARqYXZhc3EAfgCxdAAEbGFuZ3EAfgC2c3EAfgCJdXEAfgDNAAAABHNxAH4ApXQAA0FwcHEAfgCrc3EAfgCldAALRGVsYXllZEluaXRxAH4Aq3NxAH4ApXQABk9iamVjdHEAfgDRc3EAfgCldAADQW55cQB+AKt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAhraW5kcG9seXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXAC6Heh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL2hvbWUvbWlsZXMvcHJvamVjdHMvdGxzLWRlbW8va2luZHBvbHkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFG3ROMC2wAJDt/b5+hq0dxCIdNzQ
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUYoDmAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCKPEJ4dAAKc2hvd1N0cmluZ3NxAH4AC0eU/XV0AAdzaG93SW50dXEAfgAJAAAAJXNxAH4ACzkp93J0AAZub3RpZnlzcQB+AAuinXjBdAAHdW5hcHBseXNxAH4AC0bbyml0AAR3YWl0c3EAfgALRHeZcnQABHNob3dzcQB+AAt7lCtcdAANJGFzSW5zdGFuY2VPZnNxAH4AC0IWDEB0AAxwcm9kdWN0QXJpdHlzcQB+AAvqcz6HdAAGZXF1YWxzc3EAfgALqQrt63QADGFzSW5zdGFuY2VPZnNxAH4AC90RA+x0AA5leGVjdXRpb25TdGFydHNxAH4AC/MH2Od0AAxzeW5jaHJvbml6ZWRzcQB+AAt5L40ddAANJGlzSW5zdGFuY2VPZnNxAH4AC9UEmE50AAVEZW1vMXNxAH4AC8BfnuR0AAhjYW5FcXVhbHNxAH4AC8Km83N0AARtYWluc3EAfgALxLf633QADXByb2R1Y3RQcmVmaXhzcQB+AAv6u89LdAAJbm90aWZ5QWxsc3EAfgALghvrDHQACFNob3dUeXBlc3EAfgAL86lZvnQADGlzSW5zdGFuY2VPZnNxAH4AC2MICWR0AAY8aW5pdD5zcQB+AAs9KoXJdAAFYXBwbHlzcQB+AAtAEQAmdAACPT1zcQB+AAu9iaf6dAAFY2xvbmVzcQB+AAs0xOf3dAAGJGluaXQkc3EAfgALPTpBDnQABGNvcHlzcQB+AAsxfZvJdAAIdG9TdHJpbmdzcQB+AAt/CSfYdAAEYXJnc3NxAH4AC6lahyl0AAIhPXNxAH4AC+RPrCd0AAhnZXRDbGFzc3NxAH4AC0UJLXx0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC8mpa+t0AAJuZXNxAH4AC0vpXXp0AAJlcXNxAH4AC/cqxH10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAuA/S/hdAALZGVsYXllZEluaXRzcQB+AAumqNXfdAACIyNzcQB+AAtDyEBPdAAIZmluYWxpemVzcQB+AAtIrwf9dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsBd5vXdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOa2luZHBvbHkuRGVtbzF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCEc3EAfgB/dXEAfgBgAAAAAHNxAH4Af3VxAH4AYAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AZnEAfgBvdXEAfgBwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AjnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKhzcQB+AHIAcQB+AC11cQB+AHUAAAAAc3EAfgCbdAAEVW5pdHEAfgChdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AjnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AeHQABVBsYWlucQB+AEVzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AINzcQB+AJt0AAVBcnJheXEAfgChdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJt0AAZTdHJpbmdzcQB+AJ9zcQB+AKJ1cQB+AKUAAAADc3EAfgCndAAEamF2YXNxAH4Ap3QABGxhbmdxAH4ArHNxAH4Af3VxAH4AwwAAAARzcQB+AJt0AANBcHBxAH4AoXNxAH4Am3QAC0RlbGF5ZWRJbml0cQB+AKFzcQB+AJt0AAZPYmplY3RxAH4Ax3NxAH4Am3QAA0FueXEAfgChdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAIa2luZHBvbHlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVwAuh3odXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQW/I+XtNZfz2zLgzgd0FJ/HHAJpQ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+xhMYwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAZzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBuhr1JdAAHc2hvd0ludHNxAH4AC3jzglN0AApzaG93U3RyaW5nc3EAfgALCL5A3HQACnNob3dPcHRpb25zcQB+AAtHgNBRdAAIc2hvd0xpc3RzcQB+AAvYeahodAAKc2hvd1ZlY3RvcnNxAH4ACwnls3d0AAdzaG93U2V0dXEAfgAJAAAAJXNxAH4AC7hHeRJ0AAZub3RpZnlzcQB+AAsCloqOdAAHdW5hcHBseXNxAH4AC0h4ptF0AAR3YWl0c3EAfgALf95z0XQABHNob3dzcQB+AAtZEvO9dAANJGFzSW5zdGFuY2VPZnNxAH4AC28Sdkx0AAxwcm9kdWN0QXJpdHlzcQB+AAtoyn6hdAAGZXF1YWxzc3EAfgAL9vpl5XQABURlbW8yc3EAfgALK62g4HQADGFzSW5zdGFuY2VPZnNxAH4AC1xPoqV0AA5leGVjdXRpb25TdGFydHNxAH4AC7JI/It0AAxzeW5jaHJvbml6ZWRzcQB+AAslk11QdAANJGlzSW5zdGFuY2VPZnNxAH4AC2v5YNp0AAhjYW5FcXVhbHNxAH4AC2JfM+Z0AARtYWluc3EAfgALdX80NnQADXByb2R1Y3RQcmVmaXhzcQB+AAvNhrdZdAAJbm90aWZ5QWxsc3EAfgALbNj++nQACFNob3dUeXBlc3EAfgALH8LoYnQADGlzSW5zdGFuY2VPZnNxAH4AC998y5h0AAY8aW5pdD5zcQB+AAu4mQbCdAAFYXBwbHlzcQB+AAsTKcgudAACPT1zcQB+AAtOkU60dAAFY2xvbmVzcQB+AAs945OfdAAGJGluaXQkc3EAfgAL8Do8bXQABGNvcHlzcQB+AAvDoGDFdAAIdG9TdHJpbmdzcQB+AAuWTHUJdAAEYXJnc3NxAH4AC+blH5F0AAIhPXNxAH4ACxlcEHB0AAhnZXRDbGFzc3NxAH4AC4jh+4d0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC/+/Ou10AAJuZXNxAH4ACzjFGpN0AAJlcXNxAH4AC2aLaOp0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvML0VvdAALZGVsYXllZEluaXRzcQB+AAt2jdg4dAACIyNzcQB+AAu0TfrpdAAIZmluYWxpemVzcQB+AAsIbQutdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAt4C8v6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOa2luZHBvbHkuRGVtbzJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCMc3EAfgCHdXEAfgBoAAAAAHNxAH4Ah3VxAH4AaAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AbnEAfgB3dXEAfgB4AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AlnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCLdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AItzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALBzcQB+AHoAcQB+ADV1cQB+AH0AAAAAc3EAfgCjdAAEVW5pdHEAfgCpdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AlnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AgHQABVBsYWlucQB+AE1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AItzcQB+AKN0AAVBcnJheXEAfgCpdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AKN0AAZTdHJpbmdzcQB+AKdzcQB+AKp1cQB+AK0AAAADc3EAfgCvdAAEamF2YXNxAH4Ar3QABGxhbmdxAH4AtHNxAH4Ah3VxAH4AywAAAARzcQB+AKN0AANBcHBxAH4AqXNxAH4Ao3QAC0RlbGF5ZWRJbml0cQB+AKlzcQB+AKN0AAZPYmplY3RxAH4Az3NxAH4Ao3QAA0FueXEAfgCpdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAIa2luZHBvbHlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVwAuh3odXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQrI1gKEQP5ir6njr3Rmpj1t2zxbQ==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhovOHgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBtlh8+dAAKc2hvd1N0cmluZ3NxAH4AC6Bo6al0AAdzaG93SW50dXEAfgAJAAAAJXNxAH4AC2aCk+d0AAZub3RpZnlzcQB+AAsuRsKEdAAHdW5hcHBseXNxAH4AC+olOKZ0AAR3YWl0c3EAfgAL0C5Bv3QABHNob3dzcQB+AAvUANwadAANJGFzSW5zdGFuY2VPZnNxAH4AC9kkfIl0AAxwcm9kdWN0QXJpdHlzcQB+AAtHoMtDdAAGZXF1YWxzc3EAfgALKPUCMHQADGFzSW5zdGFuY2VPZnNxAH4AC7YpCkt0AA5leGVjdXRpb25TdGFydHNxAH4AC0fBYut0AAxzeW5jaHJvbml6ZWRzcQB+AAudpBWPdAANJGlzSW5zdGFuY2VPZnNxAH4AC0w2+Md0AAhjYW5FcXVhbHNxAH4AC/YdOPl0AARtYWluc3EAfgALuVO+g3QADXByb2R1Y3RQcmVmaXhzcQB+AAsteJ+YdAAJbm90aWZ5QWxsc3EAfgALLJJw33QACFNob3dUeXBlc3EAfgALrEW5O3QADGlzSW5zdGFuY2VPZnNxAH4AC5ZbuGZ0AAY8aW5pdD5zcQB+AAvgzbqxdAAFYXBwbHlzcQB+AAudCWoOdAACPT1zcQB+AAsLeMqtdAAFY2xvbmVzcQB+AAtsysSEdAAGJGluaXQkc3EAfgALxkE9eXQABGNvcHlzcQB+AAvDq7h+dAAIdG9TdHJpbmdzcQB+AAvGkBuZdAAEYXJnc3NxAH4AC8iM4hJ0AAIhPXNxAH4AC8KwcP90AAhnZXRDbGFzc3NxAH4ACwGV2N50AA5jb3B5JGRlZmF1bHQkMXNxAH4AC5VveBR0AAJuZXNxAH4ACw/nt5t0AAJlcXNxAH4AC7D24lt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAtjFcOcdAAFRGVtbzNzcQB+AAsBjnXPdAALZGVsYXllZEluaXRzcQB+AAtF1y0ddAACIyNzcQB+AAsTOlLldAAIZmluYWxpemVzcQB+AAvfnP2fdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtMts7WdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOa2luZHBvbHkuRGVtbzN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCEc3EAfgB/dXEAfgBgAAAAAHNxAH4Af3VxAH4AYAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AZnEAfgBvdXEAfgBwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AjnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKhzcQB+AHIAcQB+ACt1cQB+AHUAAAAAc3EAfgCbdAAEVW5pdHEAfgChdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AjnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AeHQABVBsYWlucQB+AENzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AINzcQB+AJt0AAVBcnJheXEAfgChdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJt0AAZTdHJpbmdzcQB+AJ9zcQB+AKJ1cQB+AKUAAAADc3EAfgCndAAEamF2YXNxAH4Ap3QABGxhbmdxAH4ArHNxAH4Af3VxAH4AwwAAAARzcQB+AJt0AANBcHBxAH4AoXNxAH4Am3QAC0RlbGF5ZWRJbml0cQB+AKFzcQB+AJt0AAZPYmplY3RxAH4Ax3NxAH4Am3QAA0FueXEAfgChdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAIa2luZHBvbHlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVwAuh3odXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSyZJSF11i1jOhIjYM1RjvVo6Xqsg==
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsf3qXQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAdzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDaPArMdAAHc2hvd0ludHNxAH4AC32DoAR0AApzaG93U3RyaW5nc3EAfgALF1XqaXQACnNob3dPcHRpb25zcQB+AAteaGjwdAAIc2hvd0xpc3RzcQB+AAs1WMSxdAAGc2hvd0ZBc3EAfgALYL4CCnQACnNob3dWZWN0b3JzcQB+AAueV/e1dAAHc2hvd1NldHVxAH4ACQAAACZzcQB+AAsdleKNdAAGbm90aWZ5c3EAfgALR+CwpnQAB3VuYXBwbHlzcQB+AAvwmCUUdAAEd2FpdHNxAH4ACyDsTF90AARzaG93c3EAfgAL8l6KOHQADSRhc0luc3RhbmNlT2ZzcQB+AAu85lfRdAAMcHJvZHVjdEFyaXR5c3EAfgALCOWMt3QABmVxdWFsc3NxAH4AC/z2PsJ0AAxhc0luc3RhbmNlT2ZzcQB+AAsxGSq3dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAsdYY/YdAAFRGVtbzRzcQB+AAu21UMddAAMc3luY2hyb25pemVkc3EAfgALFcpQCHQADSRpc0luc3RhbmNlT2ZzcQB+AAvz+0podAAIY2FuRXF1YWxzcQB+AAszXO0fdAAEbWFpbnNxAH4AC7uqFbV0AA1wcm9kdWN0UHJlZml4c3EAfgALlasWUHQACW5vdGlmeUFsbHNxAH4AC6vZxIV0AAhTaG93VHlwZXNxAH4ACzFY6mp0AAxpc0luc3RhbmNlT2ZzcQB+AAvG21EMdAAGPGluaXQ+c3EAfgALjHCix3QABWFwcGx5c3EAfgALfZGQ6XQAAj09c3EAfgALTP0hdXQABWNsb25lc3EAfgALq8m0t3QACVNob3dUeXBlMXNxAH4AC+3MjUJ0AAYkaW5pdCRzcQB+AAuW0UqwdAAEY29weXNxAH4AC7JGfD90AAh0b1N0cmluZ3NxAH4AC5Xm+ap0AARhcmdzc3EAfgALba6+V3QAAiE9c3EAfgALAa9QDXQACGdldENsYXNzc3EAfgALHSeBo3QADmNvcHkkZGVmYXVsdCQxc3EAfgALwfZcanQAAm5lc3EAfgALoYhFzXQAAmVxc3EAfgALAv0NlXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACwRkyBt0AAtkZWxheWVkSW5pdHNxAH4AC/GQ/CN0AAIjI3NxAH4ACxgiJxt0AAhmaW5hbGl6ZXNxAH4AC1E33Dl0AA5wcm9kdWN0RWxlbWVudHNxAH4AC0Gftux0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5raW5kcG9seS5EZW1vNHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ai3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AJBzcQB+AIt1cQB+AGwAAAAAc3EAfgCLdXEAfgBsAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBycQB+AHt1cQB+AHwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCaeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI90ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aj3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AtHNxAH4AfgBxAH4AN3VxAH4AgQAAAABzcQB+AKd0AARVbml0cQB+AK11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCaeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCEdAAFUGxhaW5xAH4AUXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AqFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aj3NxAH4Ap3QABUFycmF5cQB+AK11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ap3QABlN0cmluZ3NxAH4Aq3NxAH4ArnVxAH4AsQAAAANzcQB+ALN0AARqYXZhc3EAfgCzdAAEbGFuZ3EAfgC4c3EAfgCLdXEAfgDPAAAABHNxAH4Ap3QAA0FwcHEAfgCtc3EAfgCndAALRGVsYXllZEluaXRxAH4ArXNxAH4Ap3QABk9iamVjdHEAfgDTc3EAfgCndAADQW55cQB+AK11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAhraW5kcG9seXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXAC6Heh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL2hvbWUvbWlsZXMvcHJvamVjdHMvdGxzLWRlbW8va2luZHBvbHkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNNae0h0Amqe3rKYKrLin2o5s7cs
+external apis:
+0 items
+source infos:
+5 items
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly-tls.scala -> 
+AAAAAAAAAAA=
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly1.scala -> 
+AAAAAAAAAAA=
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly2.scala -> 
+AAAAAAAAAAA=
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly3.scala -> 
+AAAAAAAAAAA=
+/home/miles/projects/tls-demo/kindpoly/src/main/scala/kindpoly/kindpoly4.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/srMqJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/sr2DJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/ssDqZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vVWCJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vXRC91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vZ19B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vqC5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vsHR91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vv8nZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vwIwh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vymXJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vy9J91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/vzCKR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/v1r3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/v2I2x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/v6A3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXAC6Heh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL21pbGVzL3Byb2plY3RzL3Rscy1kZW1vL2tpbmRwb2x5L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
